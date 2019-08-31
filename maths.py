@@ -33,4 +33,7 @@ def convert_base(num, n):
     return new_num_string
 
 def factorial(number):
-    pass 
+    fact = 1
+    for i in range(1, number+1):
+        fact*=i
+    return(fact)
