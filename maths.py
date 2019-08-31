@@ -32,7 +32,7 @@ def convert_base(num, n):
         current = current//n
     return new_num_string
 
-def factorial(number):
+def factorial(number): 
     fact = 1
     for i in range(1, number+1):
         fact*=i

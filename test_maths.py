@@ -24,5 +24,5 @@ class MathsTest(unittest.TestCase):
         actual = maths.factorial(4)
         self.assertEqual(actual, 24)
 # This allows running the unit tests from the command line (python test_maths.py)
-if __name__ == '__main__':
+if __name__ == '__main__': 
     unittest.main()
