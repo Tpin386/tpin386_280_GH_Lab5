@@ -23,4 +23,4 @@ class LoggerTest(unittest.TestCase):
         self.assertEqual(error, error)
         
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main() 

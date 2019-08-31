@@ -22,3 +22,4 @@ class MathsTest(unittest.TestCase):
 # This allows running the unit tests from the command line (python test_maths.py)
 if __name__ == '__main__':
     unittest.main()
+ 
