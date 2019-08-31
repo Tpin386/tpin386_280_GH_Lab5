@@ -16,4 +16,4 @@ class Logger(object):
     def error(self, text):
         ''' Logs an error message. '''
         self._target('[WARNING] ' + text)        
-         
+      
